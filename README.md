@@ -74,18 +74,18 @@ cube_main.py   # Main application and cube logic
 ## Purpose
 
 This project was created as a small experiment to explore:
-	- 3D rendering in Python
-	- Transformation matrices
-	- Event-driven graphics programming
-	- Visualization libraries beyond traditional GUI frameworks
+- 3D rendering in Python
+- Transformation matrices
+- Event-driven graphics programming
+- Visualization libraries beyond traditional GUI frameworks
 
 ## Possible Improvements
 
-  • Full scramble / solve logic
-	•	Mouse-based rotation
-	•	Cube size configuration (NxN cubes)
-	•	GUI overlay
-	•	Save / load cube state
+- Full scramble / solve logic
+- Mouse-based rotation
+- Cube size configuration (NxN cubes)
+- GUI overlay
+- Save / load cube state
 
 
 
