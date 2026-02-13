@@ -66,9 +66,11 @@ Uppercase keys rotate in the opposite direction.
 
 ## Project Structure
 
-```code
-cube_main.py   # Main application and cube logic
-```
+```text
+├── ⚙️ .gitignore
+├── 📝 README.md
+└── 🐍 cube_main.py # Main application and cube logic
+```  
 
 ## Purpose
 
