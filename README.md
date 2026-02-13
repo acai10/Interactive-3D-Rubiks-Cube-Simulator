@@ -30,8 +30,7 @@ The cube can be rotated in real time using keyboard controls, making it a simple
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone git@github.com:acai10/Interactive-3D-Rubiks-Cube-Simulator.git
 ```
 
 ### 2. Install dependencies
